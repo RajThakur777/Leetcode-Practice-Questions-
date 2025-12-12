@@ -1,83 +1,64 @@
 class Solution {
 public:
-    vector<int> countMentions(int numberOfUsers, vector<vector<string>>& events) {
-        int n = events.size();
+    void applyMessageEvent(vector<string>event, vector<int>&mentionCount, vector<int>&offlineTime){
 
-        sort(events.begin(), events.end(),
-            [&](const vector<string>& lth, const vector<string>& rth) {
+        int timestamp = stoi(event[1]);
 
-                int lth_timestamp = 0;
-                int rth_timestamp = 0;
+        vector<string> ids;
 
-                try {
-                    lth_timestamp = stoi(lth[1]);
-                    rth_timestamp = stoi(rth[1]);
-                } catch (const std::invalid_argument& e) {
-                    return false;
+        stringstream ss(event[2]);
+
+        string token;
+        while(ss >> token){
+            ids.push_back(token);
+        }
+
+        for(string id : ids) {
+            if(id == "ALL") {
+                for(int i = 0; i<mentionCount.size(); i++) {
+                    mentionCount[i]++;
                 }
-
-                if (lth_timestamp != rth_timestamp) {
-                    return lth_timestamp < rth_timestamp;
-                }
-
-                if (rth[0] == "OFFLINE") {
-                    return false;
-                }
-
-                return true;
-            });
-
-        vector<int> online(numberOfUsers , 0);
-
-        vector<int> ans(numberOfUsers);
-
-        for(int i = 0; i < n; i++) {
-            string s1 = events[i][0];
-            string s2 = events[i][1];
-            string s3 = events[i][2];
-
-            if(s1 == "MESSAGE") {
-                if(s3 == "HERE") {
-                    for(int i=0; i<numberOfUsers; i++) {
-                        if(online[i] <= stoi(s2)) {
-                            ans[i]++;
-                        }
+            } else if(id == "HERE") {
+                for(int i = 0; i < mentionCount.size(); i++){
+                    if(offlineTime[i] == 0 || offlineTime[i] + 60 <= timestamp){
+                        mentionCount[i]++;
                     }
                 }
-                else if(s3 == "ALL") {
-                    for(int i = 0; i < ans.size(); i++) {
-                        ans[i]++;
-                    }
-                }
-                else { 
-                    string str = s3;
-
-                    int num = 0;
-                    for(int i=0; i<str.size(); i++) {
-                        if(isdigit(str[i])) {
-                            num = (num * 10) + (str[i] - '0');
-                        }
-
-                        if((i + 1 == str.size()) || (str[i + 1] == ' ')) {
-                            ans[num]++;
-                            num = 0;
-                        }
-                    }
-                }
-            }
-            else if(s1 == "OFFLINE") {
-                int num = 0;
-                int time = 0;
-
-                try {
-                    num = stoi(s3);
-                    time = stoi(s2);
-                } catch (const std::invalid_argument& e) {
-                }
-
-                online[num] = time + 60;
+            } else {
+                mentionCount[stoi(id.substr(2))]++;
             }
         }
-        return ans;
+
+    }
+
+    vector<int> countMentions(int numberOfUsers, vector<vector<string>>& events) {
+        vector<int>mentionCount(numberOfUsers);
+        vector<int>offlineTime(numberOfUsers);
+
+        auto lambda=[](vector<string>& vec1, vector<string>& vec2) {
+            int t1 = stoi(vec1[1]);
+            int t2 = stoi(vec2[1]);
+
+            if(t1 == t2) {
+                return vec1[0][1] > vec2[0][1];
+            }
+
+            return t1 < t2;
+        };
+
+        sort(events.begin(), events.end(), lambda);
+
+        for(vector<string>event: events){
+            if(event[0] == "MESSAGE") {
+                applyMessageEvent(event, mentionCount, offlineTime);
+            }
+            else if(event[0] == "OFFLINE") {
+                int timestamp = stoi(event[1]);
+                int id = stoi(event[2]);
+                offlineTime[id] = timestamp;
+            }
+        }
+
+        return mentionCount;
     }
 };

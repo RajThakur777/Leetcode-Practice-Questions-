@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0216-combination-sum-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->

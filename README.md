@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
+| [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0526-beautiful-arrangement) |
+| [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0526-beautiful-arrangement) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0216-combination-sum-iii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |

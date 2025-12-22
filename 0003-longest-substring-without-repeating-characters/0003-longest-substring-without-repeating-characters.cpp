@@ -5,17 +5,23 @@ public:
 
         int ans = 0;
 
-        for(int i=0; i<n; i++) {
-            set<char> st;
-            for(int j=i; j<n; j++) {
-                if(st.find(s[j]) == st.end()) {
-                    st.insert(s[j]);
-                } 
-                else {
-                    break;
+        unordered_map<char , int> mpp;
+
+        int i = 0;
+        for(int j=0; j<n; j++) {
+            mpp[s[j]]++;
+
+            while((mpp.size()) < (j - i + 1)) {
+                mpp[s[i]]--;
+                if(mpp[s[i]] == 0) {
+                    mpp.erase(s[i]);
                 }
+                i++;
             }
-            ans = max(ans , (int)st.size());
+
+            if((mpp.size()) == (j - i + 1)) {
+                ans = max(ans , (j - i + 1));
+            }
         }
         return ans;
     }

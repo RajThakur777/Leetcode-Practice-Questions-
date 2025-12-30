@@ -17,7 +17,7 @@ public:
 
         long long ans = LLONG_MIN;
         for(int i=0; i<n-1; i++) {
-            ans = max(ans , (long long)(prefix[i] - suffix[i+1]));
+            ans = max(ans , prefix[i] - suffix[i+1]);
         }
         return ans;
     }

@@ -15,24 +15,17 @@ public:
     int ht(TreeNode* node) {
         if(node == nullptr) return 0;
 
+        int left = ht(node->left);
+        int right = ht(node->right);
+
+        if(left == -1 || right == -1) return -1;
+
+        if(abs(left - right) > 1) return -1;
+
         return 1 + max(ht(node->left) , ht(node->right));
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root == nullptr) return true;
-
-        int left = ht(root->left);
-        int right = ht(root->right);
-
-        if(abs(left - right) > 1) {
-            return false;
-        }
-
-        bool l1 = isBalanced(root->left);
-        bool l2 = isBalanced(root->right);
-
-        if(!l1 || !l2) return false;
-
-        return true;
+        return ht(root) != -1;
     }
 };

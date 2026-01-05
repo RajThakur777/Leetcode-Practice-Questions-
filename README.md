@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
@@ -312,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

@@ -12,11 +12,13 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        map<int , vector<int>> mpp;
         queue<TreeNode*> q;
         q.push(root);
 
         int level = 1;
+        int res = 0;
+        int ans = INT_MIN;
+
         while(!q.empty()) {
             int sz = q.size();
             int sum = 0;
@@ -34,23 +36,12 @@ public:
 
                 sum += node->val;
             }
-            mpp[sum].push_back(level);
+            if(sum > ans) {
+                ans = sum;
+                res = level;
+            }
             level++;
         }
-
-        int maxi = INT_MIN;
-        for(auto it : mpp) {
-            maxi = max(maxi , it.first);
-        }
-
-        int ans = 0;
-        for(auto it : mpp) {
-            if(it.first == maxi) {
-                vector<int> v = it.second;
-                ans = v[0];
-                break;
-            }
-        }
-        return ans;
+        return res;
     }
 };

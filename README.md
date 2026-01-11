@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0494-target-sum) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

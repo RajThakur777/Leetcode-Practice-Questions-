@@ -10,23 +10,53 @@
  * };
  */
 
+// //TC->O(N);
+// //SC->O(N);
+// class Solution {
+// public:
+
+//     void solve(TreeNode* root , vector<int> &ans) {
+//         if(root == nullptr) return;
+
+//         solve(root->left , ans);
+//         ans.push_back(root->val);
+//         solve(root->right , ans);
+//     }
+
+//     int kthSmallest(TreeNode* root, int k) {
+//         vector<int> ans;
+//         solve(root , ans);
+
+//         return ans[k-1];
+//     }
+// };
+
+
+
+
 //TC->O(N);
-//SC->O(N);
+//SC->O(1);
 class Solution {
 public:
-
-    void solve(TreeNode* root , vector<int> &ans) {
+    int cnt = 0;
+    int val = 0;
+    void solve(TreeNode* root , int k) {
         if(root == nullptr) return;
 
-        solve(root->left , ans);
-        ans.push_back(root->val);
-        solve(root->right , ans);
+        solve(root->left , k);
+
+        cnt++;
+        if(cnt == k) {
+            val = root->val;
+            return;
+        }
+
+        solve(root->right , k);
     }
 
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> ans;
-        solve(root , ans);
+        solve(root , k);
 
-        return ans[k-1];
+        return val;
     }
 };

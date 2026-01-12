@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1609-even-odd-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1609-even-odd-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -447,4 +451,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1390-four-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->

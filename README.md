@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0756-pyramid-transition-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -457,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0783-minimum-distance-between-bst-nodes) |

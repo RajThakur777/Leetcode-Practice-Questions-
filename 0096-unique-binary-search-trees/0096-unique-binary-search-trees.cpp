@@ -1,0 +1,40 @@
+class Solution {
+public:
+    
+    vector<TreeNode*> build(int st , int ed) {
+        vector<TreeNode*> ans;
+
+        if(st > ed) {
+            ans.push_back(nullptr);
+            return ans;
+        }
+
+        if(st == ed) {
+            TreeNode* root = new TreeNode(st);
+            ans.push_back(root);
+            return ans;
+        }
+
+        for(int i=st; i<=ed; i++) {
+            vector<TreeNode*> left = build(st , i - 1);
+            vector<TreeNode*> right = build(i + 1 , ed);
+
+            for(int j=0; j<left.size(); j++) {
+                for(int k=0; k<right.size(); k++) {
+                    TreeNode* root = new TreeNode(i);
+                    root->left = left[j];
+                    root->right = right[k];
+
+                    ans.push_back(root);
+                }
+            }
+        }
+        return ans;
+    }
+
+    int numTrees(int n) {
+        vector<TreeNode*> ans = build(1 , n);
+
+        return ans.size();
+    }
+};

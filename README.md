@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0494-target-sum) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0101-symmetric-tree) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0101-symmetric-tree) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0230-kth-smallest-element-in-a-bst) |

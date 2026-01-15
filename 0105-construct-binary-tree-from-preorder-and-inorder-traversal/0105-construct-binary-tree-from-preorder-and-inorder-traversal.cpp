@@ -12,32 +12,36 @@
 class Solution {
 public:
 
-    TreeNode* build(vector<int>& preorder, vector<int>& inorder , int pSt , int pEd , int iSt , int iEd , unordered_map<int , int> &mpp) {
-        if(pSt > pEd || iSt > iEd) return nullptr;
+    TreeNode* build(vector<int>& preorder, vector<int>& inorder , int st , int ed , int &idx) {
+        if(st > ed) {
+            return nullptr;
+        }
 
-        TreeNode* root = new TreeNode(preorder[pSt]);
+        int rootVal = preorder[idx];
 
-        int root_idx = mpp[root->val];
-        int left = root_idx - iSt;
+        int i = st;
 
-        root->left = build(preorder , inorder , pSt + 1 , pSt + left , iSt , root_idx - 1 , mpp);
+        for(; i<inorder.size(); i++) {
+            if(inorder[i] == rootVal) {
+                break;
+            }
+        }
 
-        root->right = build(preorder , inorder , pSt + left + 1 , pEd , root_idx + 1 , iEd , mpp);
+        idx++;
+
+        TreeNode* root = new TreeNode(rootVal);
+
+        root->left = build(preorder , inorder , st , i - 1 , idx);
+        root->right = build(preorder , inorder , i + 1 , ed , idx);
 
         return root;
     }
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int , int> mpp;
-
         int n = preorder.size();
 
-        for(int i=0; i<inorder.size(); i++) {
-            mpp[inorder[i]] = (i);
-        }
+        int idx = 0;
 
-        TreeNode* root = build(preorder , inorder , 0 , n - 1 , 0 , n - 1 , mpp);
-
-        return root;
+        return build(preorder , inorder , 0 , n-1 , idx);
     }
 };

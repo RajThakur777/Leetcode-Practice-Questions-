@@ -13,7 +13,7 @@ class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
         if(root == nullptr) return {};
-        
+
         queue<TreeNode*> q;
         q.push(root);
 

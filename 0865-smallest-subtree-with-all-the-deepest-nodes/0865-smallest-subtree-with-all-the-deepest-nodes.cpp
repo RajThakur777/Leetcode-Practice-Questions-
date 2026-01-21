@@ -11,38 +11,41 @@
  */
 class Solution {
 public:
-     unordered_map<int, int> mp;
-    int maxD = 0;
+     int maxDepth = 0;
 
-    TreeNode* LCA(TreeNode* root) {
-        if(root == NULL || mp[root->val] == maxD) {
+    void solve(TreeNode* root , int d) {
+        if(root == nullptr) return;
+
+        maxDepth = max(maxDepth , d);
+
+        solve(root->left , d + 1);
+        solve(root->right , d + 1);
+    }
+
+    TreeNode* lca(TreeNode* root , int maxDepth) {
+        if(root == nullptr || maxDepth == 0) {
             return root;
         }
 
-        TreeNode* l = LCA(root->left);
-        TreeNode* r = LCA(root->right);
+        TreeNode* left = lca(root->left , maxDepth - 1);
+        TreeNode* right = lca(root->right , maxDepth - 1);
 
-        if(l && r) {
+        if(left == nullptr) {
+            return right;
+        }
+        else if(right == nullptr) {
+            return left;
+        }
+        else {
             return root;
         }
-
-        return l != NULL ? l : r;
-    }
-
-    void depth(TreeNode* root, int d) {
-        if(!root) {
-            return;
-        }
-
-        maxD = max(maxD, d);
-        mp[root->val] = d;
-        depth(root->left, d+1);
-        depth(root->right, d+1);
-    }
+    } 
 
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        depth(root, 0);
+        int d = 0;
 
-        return LCA(root);
+        solve(root , d);
+
+        return lca(root , maxDepth);
     }
 };

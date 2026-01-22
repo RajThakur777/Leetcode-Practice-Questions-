@@ -11,42 +11,38 @@
  */
 class Solution {
 public:
-
+    #define ll long long
     const int mod = 1e9 + 7;
-    #define ll long long 
 
-    ll findSum(TreeNode* root) {
+    ll maxi = 0;
+
+    ll totalSum(TreeNode* root) {
         if(root == nullptr) return 0;
 
-        ll left = findSum(root->left);
-        ll right = findSum(root->right);
+        ll left = totalSum(root->left);
+        ll right = totalSum(root->right);
 
         return left + right + root->val;
     }
 
-    ll ans = LLONG_MIN;
+    ll dfs(TreeNode* root , ll &total) {
+        if(root == nullptr) return 0;
 
-    ll solve(TreeNode* root , ll &total) {
-        if(root == nullptr) {
-            return 0;
-        }
-
-        ll left = solve(root->left , total);
-        ll right = solve(root->right , total);
+        ll left = dfs(root->left , total);
+        ll right = dfs(root->right , total);
 
         ll value = left + right + root->val;
-        ll res = (total - value) * (value);
 
-        ans = max(ans , res);
+        maxi = max(maxi , ((value) * 1LL * (total - value)));
 
-        return value;
+        return left + right + root->val;
     }
 
     int maxProduct(TreeNode* root) {
-        ll total = findSum(root);
+        ll total = totalSum(root);
 
-        solve(root , total);
+        dfs(root , total);
 
-        return ans % mod;
+        return maxi % mod;
     }
 };

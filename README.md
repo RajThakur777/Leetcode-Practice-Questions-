@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0637-average-of-levels-in-binary-tree) |

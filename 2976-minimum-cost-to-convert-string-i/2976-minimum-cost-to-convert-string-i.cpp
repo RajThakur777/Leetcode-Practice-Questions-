@@ -1,6 +1,8 @@
 class Solution {
 public:
-    void dijiktra(char root , vector<int> &dist , priority_queue<pair<int , char> , vector<pair<int , char>> , greater<pair<int , char>>> &pq , unordered_map<char , vector<pair<char , int>>> &mpp) {
+    void dijiktra(char root , vector<int> &dist , unordered_map<char , vector<pair<char , int>>> &mpp) {
+        priority_queue<pair<int , char> , vector<pair<int , char>> , greater<pair<int , char>>> pq;
+
         pq.push({0 , root});
         dist[root - 'a'] = 0;
 
@@ -32,23 +34,22 @@ public:
 
             mpp[u].push_back({v , ct});
         }
-        
-        priority_queue<pair<int , char> , vector<pair<int , char>> , greater<pair<int , char>>> pq;
+
+        vector<vector<int>> dist(26 , vector<int>(26 , INT_MAX));
+        for(int i=0; i<26; i++) {
+            dijiktra((i + 'a') , dist[i] , mpp);
+        }
 
         long long ans = 0;
         for(int i=0; i<source.size(); i++) {
             if(source[i] == target[i]) continue;
 
-            vector<int> dist(26 , INT_MAX);
+            int u = source[i] - 'a';
+            int v = target[i] - 'a';
 
-            dijiktra(source[i] , dist , pq , mpp);
+            if(dist[u][v] == INT_MAX) return -1;
 
-            if(dist[target[i] - 'a'] == INT_MAX) {
-                return -1;
-            }
-            else {
-                ans += dist[target[i] - 'a'];
-            }
+            ans += dist[u][v];
         }
         return ans;
     }

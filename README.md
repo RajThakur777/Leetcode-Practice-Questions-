@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1109-corporate-flight-bookings) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |

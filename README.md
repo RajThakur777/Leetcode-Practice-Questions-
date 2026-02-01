@@ -727,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

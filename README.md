@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
+| [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |
 | [0904-fruit-into-baskets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0756-pyramid-transition-matrix) |
+| [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |

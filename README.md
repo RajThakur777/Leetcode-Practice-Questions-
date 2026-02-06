@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |

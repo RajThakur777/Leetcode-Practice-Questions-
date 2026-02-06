@@ -766,5 +766,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1068-product-sales-analysis-i) |
 | [1179-reformat-department-table](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1179-reformat-department-table) |
 | [1587-bank-account-summary-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1587-bank-account-summary-ii) |
+| [1693-daily-leads-and-partners](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

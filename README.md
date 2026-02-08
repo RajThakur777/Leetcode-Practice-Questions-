@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1179-reformat-department-table) |
 | [1587-bank-account-summary-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->

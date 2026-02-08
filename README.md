@@ -775,4 +775,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1757-recyclable-and-low-fat-products) |
+| [1890-the-latest-login-in-2020](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->

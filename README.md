@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1609-even-odd-tree) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1609-even-odd-tree) |
@@ -699,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |

@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1965-employees-with-missing-information) |
 ## Queue
 |  |
 | ------- |

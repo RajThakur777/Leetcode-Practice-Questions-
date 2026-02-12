@@ -2,30 +2,30 @@ class Solution {
 public:
 
     bool isValid(vector<int> &freq) {
-        int f = 0;
+        int val = 0;
         for(int i=0; i<26; i++) {
-            if(freq[i] > 0) {
-                f = freq[i];
+            if(freq[i] != 0) {
+                val = freq[i];
                 break;
             }
         }
 
         for(int i=0; i<26; i++) {
-            if(freq[i] > 0 && freq[i] != f) {
+            if(freq[i] != 0 && freq[i] != val) {
                 return false;
             }
         }
         return true;
     }
 
-    int longestBalanced(string s) {   
+    int longestBalanced(string s) {
         int n = s.size();
 
         int ans = 0;
 
         for(int i=0; i<n; i++) {
             vector<int> freq(26 , 0);
-            for(int j=i; j<n; j++) {
+            for(int j=i; j<n; j++) { 
                 freq[s[j] - 'a']++;
 
                 if(isValid(freq)) {

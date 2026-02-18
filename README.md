@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0526-beautiful-arrangement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0756-pyramid-transition-matrix) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |

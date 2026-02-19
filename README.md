@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0424-longest-repeating-character-replacement) |
+| [0696-count-binary-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0756-pyramid-transition-matrix) |
 | [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |

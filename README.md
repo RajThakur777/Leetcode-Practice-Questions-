@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1302-deepest-leaves-sum) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1609-even-odd-tree) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0886-possible-bipartition) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |

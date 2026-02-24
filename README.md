@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1615-maximal-network-rank](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |

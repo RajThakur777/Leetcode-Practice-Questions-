@@ -12,41 +12,48 @@
 class Solution {
 public:
 
-    void dfs(TreeNode* root , vector<string> &vec , string &str) {
-        if(root == nullptr) return;
+    int convert(string res) {
+        int num = 0;
 
-        str += (to_string(root->val));
+        int idx = 0;
 
-        if(root->left == nullptr && root->right == nullptr) {
-            vec.push_back(str);
+        for(int i=res.size()-1; i>=0; i--) {
+            if(res[i] == '1') {
+                num += pow(2 , idx);
+            }
+            idx++;
         }
-
-        dfs(root->left , vec , str);
-        dfs(root->right , vec , str);
-
-        str.pop_back();
+        return num;
     }
 
-    int binToDec(string str) {
-        int p = 0;
-
-        int number = 0;
-        for(int i=str.size()-1; i>=0; i--) {
-            number += ((str[i] - '0') * pow(2 , p));
-            p++;
+    void solve(TreeNode* root , string res , vector<string> &ans) {
+        if(root == nullptr) {
+            return;
         }
-        return number;
+
+        res += to_string(root->val);
+
+        if(root->left == nullptr && root->right == nullptr) {
+            ans.push_back(res);
+            return;
+        }
+
+        solve(root->left , res , ans);
+        solve(root->right , res , ans);
     }
 
     int sumRootToLeaf(TreeNode* root) {
-        vector<string> vec;
+        vector<string> ans;
 
-        string str;
-        dfs(root , vec , str);
+        string res = " ";
+
+        solve(root , res , ans);
 
         int sum = 0;
-        for(int i=0; i<vec.size(); i++) {
-            sum += binToDec(vec[i]);
+
+        for(auto it : ans) {
+            int val = convert(it);
+            sum += val;
         }
         return sum;
     }

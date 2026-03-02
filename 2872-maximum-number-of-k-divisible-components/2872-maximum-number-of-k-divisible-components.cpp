@@ -9,6 +9,7 @@ public:
         for(auto it : mpp[node]) {
             if(it != parent) {
                 sum += dfs(it , node , sum , mpp , values , k);
+                sum %= k;
             }
         }
         if(sum % k == 0) {

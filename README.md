@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0851-loud-and-rich) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0797-all-paths-from-source-to-target) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0797-all-paths-from-source-to-target) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1514-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1514-path-with-maximum-probability) |
@@ -673,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
+| [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -944,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |

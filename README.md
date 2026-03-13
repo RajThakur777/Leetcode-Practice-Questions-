@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3379-transformed-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 ## Sorting
 |  |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search
 |  |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3650-minimum-cost-path-with-edge-reversals) |

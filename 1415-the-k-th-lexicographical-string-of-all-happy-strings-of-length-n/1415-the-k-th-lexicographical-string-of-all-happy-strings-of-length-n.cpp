@@ -1,33 +1,34 @@
 class Solution {
 public:
 
-    void solve(int idx , int n , int k , vector<string> &res , string &s) {
+    void solve(int idx , int n , int k , string res , vector<string> &vec) {
         if(idx == n) {
-            res.push_back(s);
+            vec.push_back(res);
             return;
         }
 
         for(char ch='a'; ch<='c'; ch++) {
-            if(!s.empty() && s.back() == ch) {
+            if(!res.empty() && res.back() == ch) {
                 continue;
             }
 
-            s.push_back(ch);
-            solve(idx+1 , n , k , res , s);
-            s.pop_back();
+            res.push_back(ch);
+            solve(idx+1 , n , k , res , vec);
+            res.pop_back();
         }
     }
 
     string getHappyString(int n, int k) {
-        vector<string> res;
+        vector<string> vec;
 
-        string str;
+        string res;
 
-        solve(0 , n , k , res , str);
+        solve(0 , n , k , res , vec);
 
-        if(k > res.size()) {
+        if(vec.size() < k) {
             return "";
-        }
-        return res[k-1];
+        }      
+
+        return vec[k-1];
     }
 };

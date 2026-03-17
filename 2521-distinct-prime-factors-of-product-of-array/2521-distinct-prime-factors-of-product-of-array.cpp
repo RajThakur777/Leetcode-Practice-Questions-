@@ -34,13 +34,13 @@ public:
 
         solve();  
 
-        for(auto it : mpp) {
-            cout<<it.first<<" ";
-            for(auto t : it.second) {
-                cout<<t<<" ";
-            }
-            cout<<endl;
-        }
+        // for(auto it : mpp) {
+        //     cout<<it.first<<" ";
+        //     for(auto t : it.second) {
+        //         cout<<t<<" ";
+        //     }
+        //     cout<<endl;
+        // }
 
         set<int> ans;
 

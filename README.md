@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |

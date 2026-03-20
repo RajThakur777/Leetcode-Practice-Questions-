@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Binary Tree
 |  |
 | ------- |

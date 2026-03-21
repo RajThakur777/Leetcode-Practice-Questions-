@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3643-flip-square-submatrix-vertically) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3713-longest-balanced-substring-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## String Matching
 |  |
 | ------- |

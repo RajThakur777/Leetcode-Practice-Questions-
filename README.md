@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0069-sqrtx) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |

@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3314-construct-the-minimum-bitwise-array-i) |

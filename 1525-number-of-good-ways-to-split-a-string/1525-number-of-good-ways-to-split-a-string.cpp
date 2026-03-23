@@ -6,7 +6,7 @@ public:
         vector<int> prefix(n);
         prefix[0] = 1;
 
-        set<int> st1;
+        set<char> st1;
         st1.insert(s[0]);
 
         for(int i=1; i<n; i++) {
@@ -22,7 +22,7 @@ public:
         vector<int> suffix(n);
         suffix[n-1] = 1;
 
-        set<int> st2;
+        set<char> st2;
         st2.insert(s[n-1]);
 
         for(int i=n-2; i>=0; i--) {

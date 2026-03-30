@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1447-simplified-fractions) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1529-minimum-suffix-flips](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1529-minimum-suffix-flips) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1529-minimum-suffix-flips](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |

@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2906-construct-product-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2906-construct-product-matrix) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |

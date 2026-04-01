@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3366-minimum-array-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3366-minimum-array-sum) |
 | [3379-transformed-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3379-transformed-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3366-minimum-array-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3366-minimum-array-sum) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |

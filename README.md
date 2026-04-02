@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3366-minimum-array-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3366-minimum-array-sum) |
 | [3379-transformed-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3379-transformed-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3366-minimum-array-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3366-minimum-array-sum) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3640-trionic-array-ii) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3643-flip-square-submatrix-vertically) |

@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0526-beautiful-arrangement) |
+| [0576-out-of-boundary-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0799-champagne-tower) |

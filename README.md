@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2906-construct-product-matrix) |
 | [2947-count-beautiful-substrings-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2947-count-beautiful-substrings-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |

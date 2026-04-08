@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2906-construct-product-matrix) |
 | [2947-count-beautiful-substrings-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2947-count-beautiful-substrings-i) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |

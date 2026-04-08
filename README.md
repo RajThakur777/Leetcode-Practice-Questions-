@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1895-largest-magic-square) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2947-count-beautiful-substrings-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2947-count-beautiful-substrings-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |

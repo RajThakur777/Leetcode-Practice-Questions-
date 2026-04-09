@@ -1,26 +1,31 @@
 class Solution {
-    bool solve(string s, int k) {
-        int n = s.length();
-        int cnt[26] = {0};
-        for (int i = 0; i < k; i++)
-            cnt[s[i] - 'a']++;
-        for (int i = k; i < n; i += k) {
-            int cnt2[26] = {0};
-            for (int j = i; j < i + k; j++)
-                cnt2[s[j] - 'a']++;
-            for (int j = 0; j < 26; j++)
-                if (cnt[j] != cnt2[j])
-                    return false;
+public:
+
+    bool solve(string s , int len) {
+        string str = s.substr(0 , len);
+
+        sort(str.begin() , str.end());
+
+        for(int i=len; i<s.size(); i+=len) {
+            string s1 = s.substr(i , len);
+
+            sort(s1.begin() , s1.end());
+
+            if(s1 != str) {
+                return false;
+            }
         }
         return true;
     }
 
-public:
     int minAnagramLength(string s) {
         int n = s.size();
-        for (int i = 1; i <= n; i++)
-            if (n % i == 0 && solve(s, i))
-                return i;
+
+        for(int len=1; len<n; len++) {
+            if(n % len == 0 && solve(s , len)) {
+                return len;
+            }
+        }
         return n;
     }
 };

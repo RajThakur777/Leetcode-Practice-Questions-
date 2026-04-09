@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3115-maximum-prime-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3115-maximum-prime-difference) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search

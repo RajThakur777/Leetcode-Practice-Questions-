@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
+| [2826-sorting-three-groups](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2826-sorting-three-groups) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2906-construct-product-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2906-construct-product-matrix) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [2826-sorting-three-groups](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2826-sorting-three-groups) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2826-sorting-three-groups](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2826-sorting-three-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |

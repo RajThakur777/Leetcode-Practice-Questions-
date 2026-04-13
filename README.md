@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1854-maximum-population-year) |
 | [1856-maximum-subarray-min-product](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1856-maximum-subarray-min-product) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |

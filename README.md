@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |

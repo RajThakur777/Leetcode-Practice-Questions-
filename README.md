@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1109-corporate-flight-bookings) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0997-find-the-town-judge) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |

@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2671-frequency-tracker](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2671-frequency-tracker) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0677-map-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0677-map-sum-pairs) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [2671-frequency-tracker](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2671-frequency-tracker) |
 ## Binary Search Tree
 |  |
 | ------- |

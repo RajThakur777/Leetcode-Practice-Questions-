@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2374-node-with-highest-edge-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2374-node-with-highest-edge-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1854-maximum-population-year](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1854-maximum-population-year) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3713-longest-balanced-substring-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3713-longest-balanced-substring-i) |

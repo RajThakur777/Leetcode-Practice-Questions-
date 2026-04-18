@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1208-get-equal-substrings-within-budget) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1854-maximum-population-year](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1854-maximum-population-year) |

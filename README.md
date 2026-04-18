@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0696-count-binary-substrings) |

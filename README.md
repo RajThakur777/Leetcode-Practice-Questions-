@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
 | ------- |

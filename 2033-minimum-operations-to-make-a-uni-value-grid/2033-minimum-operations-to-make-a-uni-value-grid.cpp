@@ -20,7 +20,7 @@ public:
 
         for(int i=0; i<vec.size(); i++) {
             if(vec[i] != vec[mid]) {
-                if((vec[i] % x) != (vec[mid] % x)) {
+                if((abs(vec[i] - vec[mid])) % x != 0) {
                     return -1;
                 }
                 ans += (abs(vec[mid] - vec[i]) / x);

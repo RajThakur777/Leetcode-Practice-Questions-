@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
 | [0650-2-keys-keyboard](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0650-2-keys-keyboard) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |

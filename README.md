@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2063-vowels-of-all-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2063-vowels-of-all-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2063-vowels-of-all-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
+| [2063-vowels-of-all-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-total-appeal-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2262-total-appeal-of-a-string) |
@@ -1365,4 +1368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1641-count-sorted-vowel-strings) |
+| [2063-vowels-of-all-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->

@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2527-find-xor-beauty-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2553-separate-the-digits-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3379-transformed-array) |

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2256-minimum-average-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2256-minimum-average-difference) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2256-minimum-average-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2256-minimum-average-difference) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2420-find-all-good-indices](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2420-find-all-good-indices) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -1006,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |

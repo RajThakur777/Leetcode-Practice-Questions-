@@ -1,12 +1,12 @@
 class Solution {
 public:
 
-    int solve(vector<int> &nums , int k) {
-        unordered_map<int , int> mpp;
+    int cnt_subarrays(vector<int> &nums , int k) {
+        int cnt = 0;
+        
+        map<int , int> mpp;
 
         int i = 0;
-        int ans = 0;
-
         for(int j=0; j<nums.size(); j++) {
             mpp[nums[j]]++;
 
@@ -17,14 +17,15 @@ public:
                 }
                 i++;
             }
-            ans += (j - i + 1);
+
+            cnt += (j - i + 1);
         }
-        return ans;
+        return cnt;
     }
 
-    int subarraysWithKDistinct(vector<int>& nums, int k) { 
+    int subarraysWithKDistinct(vector<int>& nums, int k) {
         int n = nums.size();
 
-        return solve(nums , k) - solve(nums , k-1);  
+        return cnt_subarrays(nums , k) - cnt_subarrays(nums , k-1);
     }
 };

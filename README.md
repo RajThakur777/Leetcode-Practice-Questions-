@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
+| [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0496-next-greater-element-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
+| [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0222-count-complete-tree-nodes) |
+| [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |

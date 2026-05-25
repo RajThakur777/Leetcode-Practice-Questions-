@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0576-out-of-boundary-paths) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0222-count-complete-tree-nodes) |
+| [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
+| [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
 | [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
@@ -1428,4 +1431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->

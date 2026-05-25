@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1895-largest-magic-square) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2139-minimum-moves-to-reach-target-score) |

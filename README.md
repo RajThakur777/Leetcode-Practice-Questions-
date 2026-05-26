@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3488-closest-equal-element-queries](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3488-closest-equal-element-queries) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |

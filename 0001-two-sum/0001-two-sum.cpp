@@ -7,13 +7,16 @@ public:
 
         for(int i=0; i<n; i++) {
             int ele = nums[i];
+
             int need = target - ele;
 
             if(mpp.find(need) != mpp.end()) {
-                return {mpp[need] , i};
+                return {i , mpp[need]};
             }
-            mpp[ele] = i;
+            else {
+                mpp[ele] = i;
+            }
         }
-        return {-1 , -1};
+        return {};
     }
 };

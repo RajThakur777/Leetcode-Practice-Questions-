@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0657-robot-return-to-origin) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1103-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |

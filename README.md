@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |

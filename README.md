@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1103-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1489,4 +1491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->

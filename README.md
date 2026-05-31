@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2453-destroy-sequential-targets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2453-destroy-sequential-targets) |
 | [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2374-node-with-highest-edge-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2374-node-with-highest-edge-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
+| [2453-destroy-sequential-targets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2453-destroy-sequential-targets) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2540-minimum-common-value) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2453-destroy-sequential-targets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2453-destroy-sequential-targets) |
 | [2833-furthest-point-from-origin](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2833-furthest-point-from-origin) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3138-minimum-length-of-anagram-concatenation) |

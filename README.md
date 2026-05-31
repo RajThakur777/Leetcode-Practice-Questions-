@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
+| [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0222-count-complete-tree-nodes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0476-number-complement) |

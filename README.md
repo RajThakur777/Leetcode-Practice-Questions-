@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |

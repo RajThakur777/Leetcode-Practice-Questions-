@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2358-maximum-number-of-groups-entering-a-competition) |

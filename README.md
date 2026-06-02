@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0164-maximum-gap) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |

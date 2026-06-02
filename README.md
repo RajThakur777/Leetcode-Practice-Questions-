@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3640-trionic-array-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2105-watering-plants-ii) |
 | [2540-minimum-common-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3643-flip-square-submatrix-vertically) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Hash Table
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3282-reach-end-of-array-with-max-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1128,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Heap (Priority Queue)

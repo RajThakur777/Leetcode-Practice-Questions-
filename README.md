@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0164-maximum-gap) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |

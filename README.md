@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2453-destroy-sequential-targets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2453-destroy-sequential-targets) |
 | [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2527-find-xor-beauty-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2895-minimum-processing-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2895-minimum-processing-time) |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2540-minimum-common-value) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2826-sorting-three-groups](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2826-sorting-three-groups) |

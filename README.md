@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0401-binary-watch) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |

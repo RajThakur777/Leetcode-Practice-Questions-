@@ -7,41 +7,39 @@ public:
 
         set<vector<int>> st;
 
-        for(int j=1; j<n-2; j++) {
-            for(int k=j+1; k<n-1; k++) {
-                int i = 0;
-                int l = n-1;
+        for(int i=1; i<n-2; i++) {
+            for(int j=i+1; j<n-1; j++) {
+                int l = 0;
+                int k = n-1;
 
-                while(i < j && l > k) {
+                while(l < i && k > j) {
                     long long sum = nums[i] + nums[j];
-                    sum += nums[k];
                     sum += nums[l];
-                    
+                    sum += nums[k];
+
                     if(sum > target) {
-                        l--;
+                        k--;
                     }
                     else if(sum < target) {
-                        i++;
+                        l++;
                     }
                     else {
-                        vector<int> temp = {nums[i] , nums[j] , nums[k] , nums[l]};
+                        vector<int> vec = {nums[i] , nums[j] , nums[k] , nums[l]};
 
-                        st.insert(temp);
+                        st.insert(vec);
 
-                        i++;
-                        l--;
+                        l++;
+                        k--;
                     }
                 }
             }
         }
+
         vector<vector<int>> ans;
 
-        for(auto x : st) {
-            vector<int> t = x;
-
-            ans.push_back(t);
+        for(auto it : st) {
+            ans.push_back(it);
         }
-
         return ans;
     }
 };

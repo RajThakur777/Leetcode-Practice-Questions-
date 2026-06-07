@@ -5,18 +5,22 @@ public:
 
         map<int , int> mpp;
 
-        for(int i=0; i<n; i++) {
-            int ele = nums[i];
+        vector<int> res;
 
-            int need = target - ele;
+        for(int i=0; i<n; i++) {
+            int x = nums[i];
+
+            int need = target - x;
 
             if(mpp.find(need) != mpp.end()) {
-                return {i , mpp[need]};
+                res.push_back(i);
+                res.push_back(mpp[need]);
+                break;
             }
             else {
-                mpp[ele] = i;
+                mpp[x] = i;
             }
         }
-        return {};
+        return res;
     }
 };

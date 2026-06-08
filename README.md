@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2105-watering-plants-ii) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2402-meeting-rooms-iii) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2105-watering-plants-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

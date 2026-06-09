@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3138-minimum-length-of-anagram-concatenation) |
@@ -1163,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |

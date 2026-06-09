@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3665-twisted-mirror-path-count](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3665-twisted-mirror-path-count) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1168,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |

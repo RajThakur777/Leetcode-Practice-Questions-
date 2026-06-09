@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1589,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Minimum Spanning Tree
 |  |

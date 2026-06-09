@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -1158,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2895-minimum-processing-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2895-minimum-processing-time) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2957-remove-adjacent-almost-equal-characters) |

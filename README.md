@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0454-4sum-ii) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0383-ransom-note](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0383-ransom-note) |
 | [0923-3sum-with-multiplicity](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |

@@ -23,35 +23,35 @@ public:
             return list1;
         }
 
-        ListNode* temp1 = list1;
-        ListNode* temp2 = list2;
+        ListNode* t1 = list1;
+        ListNode* t2 = list2;
 
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
 
-        while(temp1 != nullptr && temp2 != nullptr) {
-            if(temp1->val <= temp2->val) {
-                temp->next = temp1;
+        while(t1 != nullptr && t2 != nullptr) {
+            if(t1->val <= t2->val) {
+                temp->next = t1;
                 temp = temp->next;
-                temp1 = temp1->next;
+                t1 = t1->next;
             }
             else {
-                temp->next = temp2;
+                temp->next = t2;
                 temp = temp->next;
-                temp2 = temp2->next;
+                t2 = t2->next;
             }
         }
 
-        while(temp1 != nullptr) {
-            temp->next = temp1;
+        while(t1 != nullptr) {
+            temp->next = t1;
             temp = temp->next;
-            temp1 = temp1->next;
+            t1 = t1->next;
         }
 
-        while(temp2 != nullptr) {
-            temp->next = temp2;
+        while(t2 != nullptr) {
+            temp->next = t2;
             temp = temp->next;
-            temp2 = temp2->next;
+            t2 = t2->next;
         }
         return dummy->next;
     }

@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0876-middle-of-the-linked-list) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |

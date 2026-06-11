@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [0756-pyramid-transition-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1436,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0677-map-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1396-design-underground-system](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1396-design-underground-system) |
 | [2671-frequency-tracker](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2671-frequency-tracker) |
@@ -1501,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Doubly-Linked List
 |  |

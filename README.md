@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
+| [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0650-2-keys-keyboard) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0788-rotated-digits) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0876-middle-of-the-linked-list) |
@@ -1337,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |

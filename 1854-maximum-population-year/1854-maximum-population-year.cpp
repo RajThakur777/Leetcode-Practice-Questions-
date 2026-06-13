@@ -1,33 +1,37 @@
 class Solution {
 public:
-    int maximumPopulation(vector<vector<int>>& logs) { 
+    int maximumPopulation(vector<vector<int>>& logs) {
         int n = logs.size();
 
-        vector<int> diff(2051);
+        vector<pair<int , int>> vec;
+
         for(int i=0; i<n; i++) {
             int l = logs[i][0];
             int r = logs[i][1];
 
-            diff[l]++;
-            diff[r]--;
-        }  
-
-        for(int i=1; i<2051; i++) {
-            diff[i] += diff[i-1];
+            vec.push_back({l , +1});
+            vec.push_back({r , -1});
         }
 
-        int maxi = INT_MIN;
-        for(int i=0; i<2051; i++) {
-            maxi = max(maxi , diff[i]);
-        }
+        sort(vec.begin() , vec.end());
 
         int ans = 0;
-        for(int i=0; i<2051; i++) {
-            if(diff[i] == maxi) {
-                ans = i;
-                break;
+        int cnt = 0;
+
+        int year = INT_MAX;
+
+        for(int i=0; i<vec.size(); i++) {
+            cnt += vec[i].second;
+
+            if(cnt > ans) {
+                ans = cnt;
+                year = vec[i].first;
+            }
+            else if(cnt == ans) {
+                ans = cnt;
+                year = min(year , vec[i].first);
             }
         }
-        return ans;
+        return year;
     }
 };

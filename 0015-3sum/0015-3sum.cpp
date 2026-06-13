@@ -3,11 +3,9 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n = nums.size();
 
-        sort(nums.begin() , nums.end());
-
-        vector<vector<int>> ans;
-
         set<vector<int>> st;
+
+        sort(nums.begin() , nums.end());
 
         for(int j=1; j<n-1; j++) {
             int i = 0;
@@ -22,10 +20,10 @@ public:
                 else if(sum < 0) {
                     i++;
                 }
-                else {
-                    vector<int> temp = {nums[i] , nums[j] , nums[k]};
+                else if(sum == 0) {
+                    vector<int> vec = {nums[i] , nums[j] , nums[k]};
 
-                    st.insert(temp);
+                    st.insert(vec);
 
                     i++;
                     k--;
@@ -33,10 +31,10 @@ public:
             }
         }
 
-        for(auto x : st) {
-            vector<int> vec = x;
+        vector<vector<int>> ans;
 
-            ans.push_back(vec);
+        for(auto it : st) {
+            ans.push_back(it);
         }
         return ans;
     }

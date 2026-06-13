@@ -3,23 +3,24 @@ public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
         int n = trips.size();
 
-        vector<int> diff(1002 , 0);
+        vector<pair<int , int>> vec;
 
         for(int i=0; i<n; i++) {
-            int val = trips[i][0];
             int l = trips[i][1];
             int r = trips[i][2];
+            int x = trips[i][0];
 
-            diff[l] += val;
-            diff[r] -= val;
+            vec.push_back({l , + x});
+            vec.push_back({r , -x});
         }
 
-        for(int i=1; i<1002; i++) {
-            diff[i] += diff[i-1];
-        }
+        sort(vec.begin() , vec.end());
 
-        for(int i=0; i<1002; i++) {
-            if(diff[i] > capacity) {
+        int cnt = 0;
+        for(int i=0; i<vec.size(); i++) {
+            cnt += vec[i].second;
+
+            if(cnt > capacity) {
                 return false;
             }
         }

@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3838-weighted-word-mapping](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |

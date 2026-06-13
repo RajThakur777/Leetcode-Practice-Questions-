@@ -1,18 +1,16 @@
 class Solution {
 public:
     vector<int> corpFlightBookings(vector<vector<int>>& bookings, int n) {
-        int sz = bookings.size();
+        vector<int> diff(n+1 , 0);
 
-        vector<int> diff(n+1);
-
-        for(int i=0; i<sz; i++) {
+        for(int i=0; i<bookings.size(); i++) {
             int l = bookings[i][0];
             int r = bookings[i][1];
-            int val = bookings[i][2];
+            int x = bookings[i][2];
 
-            diff[l] += val;
-            if(r + 1 <= n) {
-                diff[r + 1] -= val;
+            diff[l] += x;
+            if(r+1 <= n) {
+                diff[r+1] -= x;
             }
         }
 
@@ -20,10 +18,11 @@ public:
             diff[i] += diff[i-1];
         }
 
-        vector<int> ans(n);
+        vector<int> ans;
         for(int i=1; i<=n; i++) {
-            ans[i-1] = diff[i];
+            ans.push_back(diff[i]);
         }
+
         return ans;
     }
 };

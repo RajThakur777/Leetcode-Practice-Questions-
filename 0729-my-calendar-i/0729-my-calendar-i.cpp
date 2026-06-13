@@ -1,22 +1,30 @@
 class MyCalendar {
 public:
-    unordered_map<int, int> mp;
-    MyCalendar() {}
+    map<int , int> mpp;
 
-    bool book(int start, int end) {
-        for (auto it : mp) {
-            int x = it.first;
-            int y = it.second;
-            if (!(y <= start || x >= end))
+    MyCalendar() {
+    }
+    
+    bool book(int startTime, int endTime) {
+        mpp[startTime] += 1;
+        mpp[endTime] -= 1;
+
+        int cnt = 0;
+        for(auto it : mpp) {
+            cnt += it.second;
+
+            if(cnt > 1) {
+                mpp[startTime] -= 1;
+                mpp[endTime] += 1;
                 return false;
+            }
         }
-    mp[start] = end;
-    return true;
+        return true;
     }
 };
 
 /**
  * Your MyCalendar object will be instantiated and called as such:
  * MyCalendar* obj = new MyCalendar();
- * bool param_1 = obj->book(start,end);
+ * bool param_1 = obj->book(startTime,endTime);
  */

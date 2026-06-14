@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1669-merge-in-between-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2105-watering-plants-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
@@ -1371,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1856-maximum-subarray-min-product](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1856-maximum-subarray-min-product) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2390-removing-stars-from-a-string) |

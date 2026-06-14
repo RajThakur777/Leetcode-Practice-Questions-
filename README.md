@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2784-check-if-array-is-good) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2826-sorting-three-groups](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2826-sorting-three-groups) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
@@ -1281,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2540-minimum-common-value) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2826-sorting-three-groups](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2826-sorting-three-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3453-separate-squares-i) |
@@ -1577,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0732-my-calendar-iii) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory

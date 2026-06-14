@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0454-4sum-ii) |
+| [0485-max-consecutive-ones](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0494-target-sum) |

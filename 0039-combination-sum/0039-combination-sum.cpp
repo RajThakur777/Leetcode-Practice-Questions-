@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void solve(int idx , vector<int>& candidates, int target , vector<int> res , set<vector<int>> &ans) {
+    void solve(int idx , vector<int>& candidates, int target , vector<int> &res , set<vector<int>> &ans) {
         if(idx == candidates.size()) {
             if(target == 0) {
                 ans.insert(res);

@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0401-binary-watch) |

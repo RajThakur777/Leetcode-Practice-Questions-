@@ -1,39 +1,40 @@
 class Solution {
 public:
 
-    void solve(int idx , vector<int> &res , vector<vector<int>> &ans , vector<int>& candidates, int target) {
-        if(target < 0) return;
-
+    void solve(int idx , vector<int>& candidates, int target , vector<int> res , set<vector<int>> &ans) {
         if(idx == candidates.size()) {
             if(target == 0) {
-                ans.push_back(res);
+                ans.insert(res);
             }
             return;
         }
 
-        if(target == 0) {
-            ans.push_back(res);
-            return;
+        if(target < 0) {
+            return ;
         }
 
-        //pick
         res.push_back(candidates[idx]);
-        solve(idx , res , ans , candidates , target - candidates[idx]);
+        solve(idx , candidates , target - candidates[idx] , res , ans);
         res.pop_back();
 
-        //not_pick
-        solve(idx+1 , res , ans , candidates , target);
+        solve(idx+1 , candidates , target , res , ans);
     }
 
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {  
-        int n = candidates.size();
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        set<vector<int>> ans;
 
-        vector<vector<int>> ans;
+        sort(candidates.begin() , candidates.end());
 
         vector<int> res;
 
-        solve(0 , res , ans , candidates , target); 
+        solve(0 , candidates , target , res , ans);
 
-        return ans;
+        vector<vector<int>> result;
+
+        for(auto it : ans) {
+            result.push_back(it);
+        }
+
+        return result;
     }
 };

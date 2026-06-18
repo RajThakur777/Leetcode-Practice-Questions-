@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2527-find-xor-beauty-of-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1249,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2895-minimum-processing-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2895-minimum-processing-time) |

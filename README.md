@@ -1072,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
+| [2360-longest-cycle-in-a-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2360-longest-cycle-in-a-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1653,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2360-longest-cycle-in-a-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2360-longest-cycle-in-a-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2374-node-with-highest-edge-score) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1738,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0851-loud-and-rich) |
+| [2360-longest-cycle-in-a-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2360-longest-cycle-in-a-graph) |
 ## Rolling Hash
 |  |
 | ------- |

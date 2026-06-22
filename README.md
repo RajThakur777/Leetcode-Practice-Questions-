@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
 | [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0454-4sum-ii) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |

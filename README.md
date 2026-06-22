@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2262-total-appeal-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2262-total-appeal-of-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2374-node-with-highest-edge-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2374-node-with-highest-edge-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2262-total-appeal-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2262-total-appeal-of-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2453-destroy-sequential-targets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2453-destroy-sequential-targets) |
 | [2833-furthest-point-from-origin](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2833-furthest-point-from-origin) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3039-apply-operations-to-make-string-empty) |

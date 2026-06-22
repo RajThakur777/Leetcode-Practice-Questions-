@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1328-break-a-palindrome](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |

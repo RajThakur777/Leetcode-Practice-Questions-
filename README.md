@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1360,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |
@@ -1557,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0677-map-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0677-map-sum-pairs) |
@@ -1837,4 +1841,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1833-maximum-ice-cream-bars) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

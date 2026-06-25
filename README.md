@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -750,11 +752,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -924,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3039-apply-operations-to-make-string-empty](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3713-longest-balanced-substring-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -1183,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1617,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sweep Line
 |  |
 | ------- |

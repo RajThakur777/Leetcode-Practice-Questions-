@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0139-word-break) |
@@ -1428,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0094-binary-tree-inorder-traversal) |

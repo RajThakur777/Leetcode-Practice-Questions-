@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0455-assign-cookies) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |

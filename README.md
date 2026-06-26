@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0876-middle-of-the-linked-list) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0508-most-frequent-subtree-sum) |
@@ -1580,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
@@ -1664,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set

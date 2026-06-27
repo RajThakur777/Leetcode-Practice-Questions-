@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -1467,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1856-maximum-subarray-min-product) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -1570,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1856-maximum-subarray-min-product) |
 ## Geometry
 |  |

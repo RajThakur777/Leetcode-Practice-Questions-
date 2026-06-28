@@ -5,24 +5,20 @@ public:
 
         sort(arr.begin() , arr.end());
 
-        int prev = arr[0];
-
-        if(prev != 1) {
-            prev = 1;
-            arr[0] = 1;
-        } 
+        int prev = 1;
 
         for(int i=1; i<n; i++) {
-            if(arr[i] - prev <= 1) {
-                prev = arr[i];
+            if(arr[i] == prev) {
+                continue;
+            }
+            else if(arr[i] == prev + 1) {
+                prev++;
             }
             else {
-                int val = prev + 1;
-                prev = val;
-                arr[i] = val;
+                arr[i] = prev + 1;
+                prev++;
             }
         }
-
-        return *max_element(arr.begin() , arr.end());
+        return prev;
     }
 };

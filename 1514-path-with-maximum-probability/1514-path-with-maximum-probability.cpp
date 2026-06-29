@@ -1,43 +1,52 @@
 class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
-        int sz = edges.size();
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {  
+        vector<vector<pair<int , double>>> adj(n);
 
-        unordered_map<int , vector<pair<int , double>>> mpp;
-        for(int i=0; i<sz; i++) {
+        for(int i=0; i<edges.size(); i++) {
             int u = edges[i][0];
             int v = edges[i][1];
 
-            double val = succProb[i];
-
-            mpp[u].push_back({v , val});
-            mpp[v].push_back({u , val});
-        }
+            adj[u].push_back({v , succProb[i]});
+            adj[v].push_back({u , succProb[i]});
+        } 
 
         priority_queue<pair<double , int>> pq;
+
         vector<double> dist(n , 0.0);
+        vector<bool> vis(n , false);
 
-        dist[start_node] = (1.0);
-
+        dist[start_node] = 1.0;
         pq.push({1.0 , start_node});
 
         while(!pq.empty()) {
-            auto it  = pq.top();
+            auto it = pq.top();
             pq.pop();
 
-            double v = it.first;
             int node = it.second;
+            double d = it.first;
 
-            for(auto it : mpp[node]) {
-                int neigh = it.first;
-                double value = it.second;
+            if(vis[node]) {
+                continue;
+            }
 
-                if((v * value) > dist[neigh]) {
-                    dist[neigh] = (v * value);
-                    pq.push({(v * value) , neigh});
+            vis[node] = true;
+
+            for(auto t : adj[node]) {
+                int neigh = t.first;
+                double p = t.second;
+
+                if(!vis[neigh] && dist[neigh] < (p * dist[node])) {
+                    dist[neigh] = (p * dist[node]);
+                    pq.push({dist[neigh] , neigh});
                 }
             }
         }
-        return dist[end_node] == (0.0) ? 0 : dist[end_node];
+
+        if(dist[end_node] == 0.0) {
+            return 0;
+        }
+
+        return dist[end_node];
     }
 };

@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1895-largest-magic-square) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |

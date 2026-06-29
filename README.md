@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -1260,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1402,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1514-path-with-maximum-probability) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1431,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1727,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -1746,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |

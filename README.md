@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0347-top-k-frequent-elements) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0383-ransom-note) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0299-bulls-and-cows) |

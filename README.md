@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3606-coupon-code-validator) |
+| [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3665-twisted-mirror-path-count](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3665-twisted-mirror-path-count) |
@@ -1409,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
@@ -1442,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Matrix
 |  |
@@ -1778,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -1791,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
@@ -1868,6 +1874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0851-loud-and-rich) |
 | [2360-longest-cycle-in-a-graph](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2360-longest-cycle-in-a-graph) |
+| [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |
 ## Rolling Hash
 |  |
 | ------- |

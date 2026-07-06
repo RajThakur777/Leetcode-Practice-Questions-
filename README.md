@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1301-number-of-paths-with-max-score) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |

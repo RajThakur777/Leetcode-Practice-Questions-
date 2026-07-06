@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1046-last-stone-weight) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1090-largest-values-from-labels](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1109-corporate-flight-bookings) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1090-largest-values-from-labels](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
+| [1090-largest-values-from-labels](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1090-largest-values-from-labels) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
+| [1090-largest-values-from-labels](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1090-largest-values-from-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1328,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0455-assign-cookies) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
+| [1090-largest-values-from-labels](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1090-largest-values-from-labels) |
 | [1328-break-a-palindrome](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1328-break-a-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1382-balance-a-binary-search-tree) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |

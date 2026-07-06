@@ -12,23 +12,30 @@
 class Solution {
 public:
 
-    int depth(TreeNode* root) {
-        if(root == nullptr) return 0;
+    bool flag = true;
 
-        int left = depth(root->left);
-        int right = depth(root->right);
+    int solve(TreeNode* root) {
+        if(root == nullptr) {
+            return 0;
+        }
 
-        return 1 + max(left , right);
+        int l = solve(root->left);
+        int r = solve(root->right);
+
+        if(abs(l - r) > 1) {
+            flag = false;
+        }
+
+        return max(l , r) + 1;
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root == nullptr) return true;
+        if(root == nullptr) {
+            return true;
+        }
 
-        int left = depth(root->left);
-        int right = depth(root->right);
+        solve(root);
 
-        if(abs(left - right) > 1) return false;
-
-        return isBalanced(root->left) && isBalanced(root->right);
+        return flag;
     }
 };

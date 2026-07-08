@@ -12,32 +12,29 @@
 class Solution {
 public:
 
-    TreeNode* build(vector<int>& inorder, vector<int>& postorder , int iSt , int iEd , int pSt , int pEd , unordered_map<int , int> &mpp) {
-        if(pSt > pEd || iSt > iEd) return nullptr;
+    TreeNode* solve(vector<int>& inorder , vector<int>& postorder , int postLeft , int postRight , int inLeft , int inRight , map<int , int> &mpp) {
+        if(postLeft > postRight || inLeft > inRight) {
+            return nullptr;
+        }
 
-        TreeNode* root = new TreeNode(postorder[pEd]);
+        int idx = mpp[postorder[postRight]];
 
-        int root_idx = mpp[root->val];
-        int left = root_idx - iSt;
+        TreeNode* root = new TreeNode(postorder[postRight]);
 
-        root->left = build(inorder , postorder , iSt , root_idx - 1 , pSt , pSt + left - 1 , mpp);
-
-        root->right = build(inorder , postorder , root_idx + 1 , iEd , pSt + left , pEd - 1 , mpp);
+        root->left = solve(inorder , postorder , postLeft , postLeft + (idx - inLeft - 1) , inLeft , idx - 1 , mpp);
+        root->right = solve(inorder , postorder , postLeft + (idx - inLeft) , postRight - 1 , idx + 1 , inRight , mpp);
 
         return root;
     }
 
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        int n = inorder.size();
+        int n = postorder.size();
 
-        unordered_map<int , int> mpp;
-
+        map<int , int> mpp;
         for(int i=0; i<n; i++) {
             mpp[inorder[i]] = i;
         }
 
-        TreeNode* root = build(inorder , postorder , 0 , n-1 , 0 , n-1 , mpp);
-
-        return root;
+        return solve(inorder , postorder , 0 , n-1 , 0 , n-1 , mpp);
     }
 };

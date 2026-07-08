@@ -10,22 +10,25 @@
  * };
  */
 class Solution {
-public:  
+public:
+
     int ans = INT_MIN;
 
-    int func(TreeNode* node) {
-        if(node == nullptr) return 0;
+    int solve(TreeNode* root) {
+        if(!root) {
+            return 0;
+        }
 
-        int leftSum = max(0 , func(node->left));
-        int rightSum = max(0 , func(node->right));
+        int left = max(0 , solve(root->left));
+        int right = max(0 , solve(root->right));
 
-        ans = max(ans , leftSum + rightSum + node->val);
+        ans = max(ans , (left + right + root->val));
 
-        return max(leftSum , rightSum) + node->val;
+        return max(left , right) + root->val;
     }
 
     int maxPathSum(TreeNode* root) {
-        func(root);
+        solve(root);
 
         return ans;
     }

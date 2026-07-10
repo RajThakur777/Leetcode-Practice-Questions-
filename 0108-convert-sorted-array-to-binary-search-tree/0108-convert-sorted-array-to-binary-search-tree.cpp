@@ -12,23 +12,24 @@
 class Solution {
 public:
 
-    TreeNode* convertToBST(int low , int high , vector<int> &nums) {
-        if(low > high) {
+    TreeNode* solve(int l , int r , vector<int> &nums) {
+        if(l > r) {
             return nullptr;
         }
 
-        int mid = (low + high) / 2;
+        int mid = (l + r) / 2;
 
         TreeNode* root = new TreeNode(nums[mid]);
-        root->left = convertToBST(low , mid-1 , nums);
-        root->right = convertToBST(mid+1 , high , nums);
+
+        root->left = solve(l , mid-1 , nums);
+        root->right = solve(mid+1 , r , nums);
 
         return root;
     }
- 
+
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         int n = nums.size();
 
-        return convertToBST(0 , n-1 , nums);
+        return solve(0 , n-1 , nums);
     }
 };

@@ -18,21 +18,25 @@ public:
 
 class Solution {
 public:
-    Node* connect(Node* root) {  
-        if(root == nullptr) return root;
+    Node* connect(Node* root) {
+        if(!root) {
+            return nullptr;
+        }
 
         queue<Node*> q;
         q.push(root);
 
         while(!q.empty()) {
-            int sz = q.size();
+            int n = q.size();
 
-            for(int i=0; i<sz; i++) {
+            for(int i=0; i<n; i++) {
                 Node* node = q.front();
                 q.pop();
 
-                if(i < sz - 1) {
-                    node->next = q.front();
+                if(i < n-1) {
+                    Node* node2 = q.front();
+
+                    node->next = node2;
                 }
 
                 if(node->left != nullptr) {
@@ -43,7 +47,7 @@ public:
                     q.push(node->right);
                 }
             }
-        }    
+        }
         return root;
     }
 };

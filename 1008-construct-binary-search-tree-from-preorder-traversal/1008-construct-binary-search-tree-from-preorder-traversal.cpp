@@ -11,20 +11,36 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int> &preorder , int &i , int bound) {
-        if(i == preorder.size() || preorder[i] > bound) {
+
+    TreeNode* solve(int preLeft , int preRight , int inLeft , int inRight , vector<int> &preorder , vector<int> &inorder , map<int , int> &mpp) {
+        if(preLeft > preRight || inLeft > inRight) {
             return nullptr;
         }
 
-        TreeNode* root = new TreeNode(preorder[i++]);
-        root->left = solve(preorder , i , root->val);
-        root->right = solve(preorder , i , bound);
+        int root_val = preorder[preLeft];
+
+        int idx = mpp[root_val];
+
+        TreeNode* root = new TreeNode(root_val);
+
+        root->left = solve(preLeft + 1 , preLeft + idx - inLeft , inLeft , idx - 1 , preorder , inorder , mpp);
+        root->right = solve(preLeft + idx - inLeft + 1 , preRight , idx + 1 , inRight , preorder , inorder , mpp);
 
         return root;
     }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int i = 0;
-        return solve(preorder , i , INT_MAX);   
+        vector<int> inorder = preorder;
+
+        sort(inorder.begin() , inorder.end());
+
+        int n = preorder.size();
+        
+        map<int , int> mpp;
+        for(int i=0; i<inorder.size(); i++) {
+            mpp[inorder[i]] = i;
+        }
+
+        return solve(0 , n-1 , 0 , n-1 , preorder , inorder , mpp);
     }
 };

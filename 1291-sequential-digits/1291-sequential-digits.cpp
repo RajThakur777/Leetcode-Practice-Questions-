@@ -1,24 +1,47 @@
 class Solution {
 public:
-    vector<int> sequentialDigits(int low, int high) {   
-        string str = "123456789";
+    int len_max;
+    int len_min;
+    set<int> st;
+
+    void rec(string s , int low , int high) {
+        if(s.size() >= len_min && s.size() <= len_max) {
+            long long num = stol(s);
+
+            if(num >= low && num <= high) {
+                st.insert(num);
+            }
+            return;
+        }
+
+        for(int i=1; i<=9; i++) {
+            int prev = s.back() - '0';
+            if(i - prev == 1) {
+                s.push_back((i + '0'));
+                rec(s , low , high);
+            }
+        }
+    }
+
+    vector<int> sequentialDigits(int low, int high) {  
+        string str = to_string(high);
+        string str2 = to_string(low);
+
+        len_max = str.size();
+        len_min = str2.size();
+
+        for(int i=1; i<=9; i++) {
+            string s;
+            s += (i + '0');
+            rec(s , low , high);
+        }
 
         vector<int> ans;
 
-        for(int i=0; i<str.size(); i++) {
-            for(int j=i; j<str.size(); j++) {
-                string s = str.substr(i , (j - i + 1));
-
-                long long num = stol(s);
-
-                if(num >= low && num <= high) {
-                    ans.push_back(num);
-                }
-            }
+        for(auto x : st) {
+            ans.push_back(x);
         }
 
-        sort(ans.begin() , ans.end());
-        
         return ans;
     }
 };

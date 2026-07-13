@@ -11,21 +11,29 @@
  */
 class Solution {
 public:
+    map<int , int> mpp;
+    bool f = false;
 
-    bool solve(TreeNode* root , set<int> &st , int k) {
-        if(root == nullptr) return false;
-
-        if(st.find(k - root->val) != st.end()) {
-            return true;
+    void solve(TreeNode* root , int k) {
+        if(!root) {
+            return;
         }
 
-        st.insert(root->val);
-        return solve(root->left , st , k) || solve(root->right , st , k);
+        int value = k - (root->val);
+        if(mpp.find(value) != mpp.end()) {
+            f = true;
+            return;
+        }
+
+        mpp[root->val]++;
+
+        solve(root->left , k);
+        solve(root->right , k);
     }
 
     bool findTarget(TreeNode* root, int k) {
-        set<int> st;
+        solve(root , k);
 
-        return solve(root , st , k);
+        return f;
     }
 };

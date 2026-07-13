@@ -1743,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1291-sequential-digits) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |

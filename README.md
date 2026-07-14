@@ -1906,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1890-the-latest-login-in-2020) |
+| [1934-confirmation-rate](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1965-employees-with-missing-information) |
 ## Queue
 |  |

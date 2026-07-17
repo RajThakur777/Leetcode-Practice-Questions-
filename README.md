@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0216-combination-sum-iii) |
@@ -1119,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1511,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
@@ -1942,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |

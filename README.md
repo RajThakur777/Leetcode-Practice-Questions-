@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |
+| [0690-employee-importance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0729-my-calendar-i) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0706-design-hashmap) |
 | [0756-pyramid-transition-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0756-pyramid-transition-matrix) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1148,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
@@ -1315,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |

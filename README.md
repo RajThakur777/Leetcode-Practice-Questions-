@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2063-vowels-of-all-substrings) |
@@ -1998,6 +2000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1447-simplified-fractions) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |

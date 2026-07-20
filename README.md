@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1103-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1536,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0994-rotting-oranges) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1301-number-of-paths-with-max-score) |

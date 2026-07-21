@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1103-distribute-candies-to-people) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0696-count-binary-substrings) |
 | [0825-friends-of-appropriate-ages](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0825-friends-of-appropriate-ages) |
+| [0844-backspace-string-compare](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0876-middle-of-the-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1597,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1003-check-if-word-is-valid-after-substitutions) |

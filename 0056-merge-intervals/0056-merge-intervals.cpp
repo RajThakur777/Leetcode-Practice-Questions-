@@ -5,24 +5,24 @@ public:
 
         sort(intervals.begin() , intervals.end());
 
-        int p1 = intervals[0][0];
-        int p2 = intervals[0][1];
+        int prev_x = intervals[0][0];
+        int prev_y = intervals[0][1];
 
         vector<vector<int>> ans;
 
         for(int i=1; i<n; i++) {
-            if(intervals[i][0] <= p2) {
-                p1 = min(p1 , intervals[i][0]);
-                p2 = max(p2 , intervals[i][1]);
+            if(intervals[i][0] <= prev_y) {
+                prev_x = min(prev_x , intervals[i][0]);
+                prev_y = max(prev_y , intervals[i][1]);
             }
             else {
-                ans.push_back({p1 , p2});
-                p1 = intervals[i][0];
-                p2 = intervals[i][1];
+                ans.push_back({prev_x , prev_y});
+                prev_x = intervals[i][0];
+                prev_y = intervals[i][1];
             }
         }
-        
-        ans.push_back({p1 , p2});
+
+        ans.push_back({prev_x , prev_y});
 
         return ans;
     }

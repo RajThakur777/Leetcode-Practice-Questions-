@@ -3,10 +3,11 @@ public:
     stack<int> st;
     multiset<int> mt;
 
-    MinStack() {  
+    MinStack() {
+        
     }
     
-    void push(int value) { 
+    void push(int value) {
         st.push(value);
         mt.insert(value);
     }
@@ -14,6 +15,7 @@ public:
     void pop() {
         int val = st.top();
         st.pop();
+
         mt.erase(mt.find(val));
     }
     
@@ -21,7 +23,7 @@ public:
         return st.top();
     }
     
-    int getMin() { 
+    int getMin() {
         return *mt.begin();
     }
 };

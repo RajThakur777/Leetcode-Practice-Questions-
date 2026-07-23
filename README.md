@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Bitmask

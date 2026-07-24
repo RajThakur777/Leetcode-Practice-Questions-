@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0209-minimum-size-subarray-sum) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |
@@ -1469,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0287-find-the-duplicate-number) |

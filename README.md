@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Bitmask
@@ -1834,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3713-longest-balanced-substring-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3722-lexicographically-smallest-string-after-reverse) |

@@ -1,42 +1,30 @@
 class Solution {
 public:
+    
+    int solve(vector<int> &nums , int x) {
+        int cnt = 0;
 
-    int solve(vector<int> &nums , int k) {
-        int n = nums.size();
+        if(x < 0) {
+            return 0;
+        }
 
-        if(k < 0) return 0;
-
-        int ans = 0;
+        int sum = 0;
 
         int i = 0;
-        int sum = 0;
-        for(int j=0; j<n; j++) {
-            sum += nums[j];
+        for(int j=0; j<nums.size(); j++) {
+            sum += (nums[j] % 2 != 0);
 
-            while(sum > k) {
-                sum -= nums[i];
+            while(sum > x) {
+                sum -= (nums[i] % 2 != 0);
                 i++;
             }
 
-            ans += ((j - i + 1));
+            cnt += (j - i + 1);
         }
-        return ans;
+        return cnt;
     }
 
     int numberOfSubarrays(vector<int>& nums, int k) {
-        int n = nums.size();
-
-        vector<int> arr(n);
-
-        for(int i=0; i<n; i++) {
-            if(nums[i] % 2 == 0) {
-                arr[i] = 0;
-            }
-            else {
-                arr[i] = 1;
-            }
-        }
-
-        return solve(arr , k) - solve(arr , k - 1);
+        return solve(nums , k) - solve(nums , k-1);
     }
 };

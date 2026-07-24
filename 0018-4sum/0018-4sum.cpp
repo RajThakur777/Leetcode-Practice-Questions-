@@ -5,41 +5,40 @@ public:
 
         sort(nums.begin() , nums.end());
 
+        vector<vector<int>> res;
+
         set<vector<int>> st;
 
         for(int i=1; i<n-2; i++) {
             for(int j=i+1; j<n-1; j++) {
-                int l = 0;
-                int k = n-1;
+                int k = 0;
+                int l = n-1;
 
-                while(l < i && k > j) {
-                    long long sum = nums[i] + nums[j];
-                    sum += nums[l];
+                while(k < i && l > j) {
+                    long long sum  = nums[i];
+                    sum += nums[j];
                     sum += nums[k];
+                    sum += nums[l];
 
                     if(sum > target) {
-                        k--;
+                        l--;
                     }
                     else if(sum < target) {
-                        l++;
+                        k++;
                     }
                     else {
-                        vector<int> vec = {nums[i] , nums[j] , nums[k] , nums[l]};
+                        st.insert({nums[i] , nums[j] , nums[k] , nums[l]});
 
-                        st.insert(vec);
-
-                        l++;
-                        k--;
+                        k++;
+                        l--;
                     }
                 }
             }
         }
-
-        vector<vector<int>> ans;
-
         for(auto it : st) {
-            ans.push_back(it);
+            res.push_back(it);
         }
-        return ans;
+
+        return res;
     }
 };

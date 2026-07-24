@@ -3,21 +3,24 @@ public:
     int numberOfSubstrings(string s) {
         int n = s.size();
 
-        vector<int> freq(26 , 0);
+        int ans = 0;
 
-        int cnt = 0;
+        map<char , int> mpp;
 
         int i = 0;
 
         for(int j=0; j<n; j++) {
-            freq[s[j] - 'a']++;
+            mpp[s[j]]++;
 
-            while((freq[0] > 0 && freq[1] > 0 && freq[2] > 0)) {
-                cnt += (n - j);
-                freq[s[i] - 'a']--;
+            while(mpp.size() >= 3) {
+                ans += (n - j);
+                mpp[s[i]]--;
+                if(mpp[s[i]] == 0) {
+                    mpp.erase(s[i]);
+                }
                 i++;
             }
         }
-        return cnt;
+        return ans;
     }
 };

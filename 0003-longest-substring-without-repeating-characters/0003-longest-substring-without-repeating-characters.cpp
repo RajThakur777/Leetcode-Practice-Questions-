@@ -12,16 +12,14 @@ public:
         for(int j=0; j<n; j++) {
             mpp[s[j]]++;
 
-            while((mpp[s[j]]) >= 2) {
+            while(mpp[s[j]] > 1) {
                 mpp[s[i]]--;
-                if(mpp[s[i]] == 0) {
-                    mpp.erase(s[i]);
-                }
                 i++;
             }
 
             ans = max(ans , (j - i + 1));
         }
+
         return ans;
     }
 };

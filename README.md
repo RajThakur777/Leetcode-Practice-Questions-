@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0690-employee-importance) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0096-unique-binary-search-trees) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0650-2-keys-keyboard) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0788-rotated-digits) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0825-friends-of-appropriate-ages) |
 | [0923-3sum-with-multiplicity](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0923-3sum-with-multiplicity) |

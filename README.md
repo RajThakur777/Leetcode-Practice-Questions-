@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1473-paint-house-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1473-paint-house-iii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1514-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1473-paint-house-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1473-paint-house-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |

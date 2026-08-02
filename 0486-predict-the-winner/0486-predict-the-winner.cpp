@@ -1,22 +1,30 @@
 class Solution {
 public:
-   
-    bool solve(int i , int j , vector<int> &nums , int a , int b , int turn) {
+
+    int solve(int i , int j , vector<int> &nums) {
         if(i > j) {
-            return (a >= b);
+            return 0;
         }
 
-        if(turn == 0) {
-            return (solve(i+1  , j , nums , a+nums[i] , b , !turn) || (solve(i , j-1 , nums , a+nums[j] , b , !turn)));
-        }
-        else {
-            return (solve(i+1  , j , nums , a , b+nums[i] , !turn) && (solve(i , j-1 , nums , a , b+nums[j] , !turn)));
-        }
+        int op1 = nums[i] + min({solve(i+2 , j , nums) , solve(i+1 , j-1 , nums)});
+
+        int op2 = nums[j] + min({solve(i , j-2 , nums) , solve(i+1 , j-1 , nums)});
+
+        return max({op1 , op2});
     }
 
     bool predictTheWinner(vector<int>& nums) {
         int n = nums.size();
 
-        return solve(0 , n-1 , nums , 0 , 0 , 0);
+        int total = 0;
+        for(auto x : nums) {
+            total += x;
+        }
+
+        int a = solve(0 , n-1 , nums);
+
+        int b = total - a;
+
+        return (a >= b);
     }
 };

@@ -1,29 +1,40 @@
 class Solution {
 public:
-    int dp[501][501][2];
+    
+    int dp[501][501];
 
-    bool solve(int i , int j , vector<int> &piles , int a , int b , int turn) {
+    int solve(int i , int j , vector<int> &nums) {
         if(i > j) {
-            return (a > b);
+            return 0;
         }
 
-        if(dp[i][j][turn] != -1) {
-            return dp[i][j][turn];
+        if(dp[i][j] != -1) {
+            return dp[i][j];
         }
 
-        if(turn == 0) {
-            return dp[i][j][turn] = solve(i+1 , j , piles , a+piles[i] , b , !turn) || solve(i , j-1 , piles , a+piles[j] , b , !turn);
-        }
-        else {
-            return dp[i][j][turn] = solve(i+1 , j , piles , a , b+piles[i] , !turn) || solve(i , j-1 , piles , a , b+piles[j] , !turn);
-        }
+        int op1 = nums[i] + min({solve(i+2 , j , nums) , solve(i+1 , j-1 , nums)});
+
+        int op2 = nums[j] + min({solve(i , j-2 , nums) , solve(i+1 , j-1 , nums)});
+
+        return dp[i][j] = max({op1 , op2});
     }
 
     bool stoneGame(vector<int>& piles) {
-        int n = piles.size();
+        vector<int> nums = piles;
 
         memset(dp , -1 , sizeof(dp));
 
-        return solve(0 , n-1 , piles , 0 , 0 , 0);
+        int n = nums.size();
+
+        int total = 0;
+        for(auto x : nums) {
+            total += x;
+        }
+
+        int a = solve(0 , n-1 , nums);
+
+        int b = total - a;
+
+        return (a > b);
     }
 };

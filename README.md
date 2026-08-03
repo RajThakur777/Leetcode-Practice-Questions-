@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1732-find-the-highest-altitude) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1641-count-sorted-vowel-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1641-count-sorted-vowel-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1641-count-sorted-vowel-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
 | [1871-jump-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1871-jump-game-vii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -2130,6 +2133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
 ## Counting Sort
 |  |
 | ------- |

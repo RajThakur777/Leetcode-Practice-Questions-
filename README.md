@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1514-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1630-arithmetic-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1664-ways-to-make-a-fair-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1447-simplified-fractions) |
+| [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1641-count-sorted-vowel-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1641-count-sorted-vowel-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1473-paint-house-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1641-count-sorted-vowel-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1641-count-sorted-vowel-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2132,6 +2135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
 ## Counting Sort

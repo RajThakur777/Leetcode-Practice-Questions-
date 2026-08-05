@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1745-palindrome-partitioning-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1641-count-sorted-vowel-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
+| [1745-palindrome-partitioning-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1745-palindrome-partitioning-iv) |
 | [1871-jump-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1871-jump-game-vii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |

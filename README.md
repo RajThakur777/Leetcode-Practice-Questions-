@@ -1267,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3310-remove-methods-from-project](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
@@ -1430,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3310-remove-methods-from-project) |
 ## Union Find
 |  |
 | ------- |
@@ -1949,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3620-network-recovery-pathways) |

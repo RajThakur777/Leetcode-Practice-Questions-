@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1882,6 +1883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3546-equal-sum-grid-partition-i) |

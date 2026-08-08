@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3433-count-mentions-per-user](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3433-count-mentions-per-user) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3536-maximum-product-of-two-digits) |
@@ -1512,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |

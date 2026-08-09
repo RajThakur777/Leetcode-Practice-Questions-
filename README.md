@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1103-distribute-candies-to-people) |
+| [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0935-knight-dialer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0935-knight-dialer) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1336,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -2161,6 +2165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
@@ -2176,4 +2181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0901-online-stock-span) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0813-largest-sum-of-averages](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0813-largest-sum-of-averages) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0741-cherry-pickup](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0741-cherry-pickup) |
 | [0788-rotated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0799-champagne-tower) |
 | [0813-largest-sum-of-averages](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0813-largest-sum-of-averages) |
@@ -1618,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0994-rotting-oranges) |

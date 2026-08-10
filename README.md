@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1447-simplified-fractions) |
+| [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1641-count-sorted-vowel-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1641-count-sorted-vowel-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1473-paint-house-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -2167,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
@@ -2185,8 +2188,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

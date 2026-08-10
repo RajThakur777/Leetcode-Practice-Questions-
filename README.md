@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0239-sliding-window-maximum) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0377-combination-sum-iv) |
@@ -1626,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0741-cherry-pickup) |

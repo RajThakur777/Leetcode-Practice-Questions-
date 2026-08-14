@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2592-maximize-greatness-of-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2670-find-the-distinct-difference-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2540-minimum-common-value) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2670-find-the-distinct-difference-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2670-find-the-distinct-difference-array) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2833-furthest-point-from-origin) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2585-number-of-ways-to-earn-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2585-number-of-ways-to-earn-points) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |

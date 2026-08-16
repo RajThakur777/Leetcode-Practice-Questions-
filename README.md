@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2256-minimum-average-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2256-minimum-average-difference) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2262-total-appeal-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2262-total-appeal-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2420-find-all-good-indices](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2420-find-all-good-indices) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
@@ -1677,6 +1679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1975-maximum-matrix-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
@@ -2234,4 +2237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2585-number-of-ways-to-earn-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2585-number-of-ways-to-earn-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

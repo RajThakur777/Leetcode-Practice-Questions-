@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2262-total-appeal-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2262-total-appeal-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2262-total-appeal-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2262-total-appeal-of-a-string) |
 | [2420-find-all-good-indices](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2420-find-all-good-indices) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
@@ -1376,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2256-minimum-average-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2256-minimum-average-difference) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |

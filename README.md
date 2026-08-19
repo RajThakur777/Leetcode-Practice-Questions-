@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1387-sort-integers-by-the-power-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1630-arithmetic-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1630-arithmetic-subarrays) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1387-sort-integers-by-the-power-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -2189,6 +2191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0397-integer-replacement) |
+| [1387-sort-integers-by-the-power-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1387-sort-integers-by-the-power-value) |
 ## Bucket Sort
 |  |
 | ------- |

@@ -867,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2478-number-of-beautiful-partitions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2478-number-of-beautiful-partitions) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2478-number-of-beautiful-partitions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2478-number-of-beautiful-partitions) |
 | [2585-number-of-ways-to-earn-points](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -1409,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2420-find-all-good-indices) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
+| [2478-number-of-beautiful-partitions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2478-number-of-beautiful-partitions) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2587-rearrange-array-to-maximize-prefix-score) |

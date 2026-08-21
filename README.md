@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1331-rank-transform-of-an-array) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1331-rank-transform-of-an-array) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

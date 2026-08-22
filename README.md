@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2008-maximum-earnings-from-taxi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2008-maximum-earnings-from-taxi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2092-find-all-people-with-secret) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2008-maximum-earnings-from-taxi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2121-intervals-between-identical-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2121-intervals-between-identical-elements) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2008-maximum-earnings-from-taxi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2063-vowels-of-all-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1620,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2008-maximum-earnings-from-taxi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2008-maximum-earnings-from-taxi) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2302-count-subarrays-with-score-less-than-k) |

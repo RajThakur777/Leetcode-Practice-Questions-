@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1856-maximum-subarray-min-product](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1856-maximum-subarray-min-product) |
 | [1861-rotating-the-box](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
 | [1745-palindrome-partitioning-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1745-palindrome-partitioning-iv) |
 | [1871-jump-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -1411,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1854-maximum-population-year) |
 | [1856-maximum-subarray-min-product](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1856-maximum-subarray-min-product) |
 | [1871-jump-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1895-largest-magic-square) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -2250,6 +2254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1872-stone-game-viii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -2266,11 +2271,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |

@@ -1,48 +1,46 @@
 class Solution {
 public:
-
-    int cnt(string str) {
-        int ones = 0;
-
-        for(int i=0; i<str.size(); i++) {
-            ones += (str[i] == '1');
-        }
-        return ones;
-    }
-
-    static bool cmp(string a , string b) {
-        if(a.size() == b.size()) {
-            return a < b;
-        }
-        else {
-            return (a.size() < b.size());
-        }
-    }
-
-    string shortestBeautifulSubstring(string s, int k) {  
+    string shortestBeautifulSubstring(string s, int k) {
         int n = s.size();
 
-        vector<string> ans;
+        vector<string> arr;
+
+        int len = INT_MAX;
 
         for(int i=0; i<n; i++) {
+            int cnt_1 = 0;
             for(int j=i; j<n; j++) {
-                string str = s.substr(i , (j - i + 1));
+                if(s[j] == '1') {
+                    cnt_1++;
+                }
 
-                if(cnt(str) == k) {
-                    ans.push_back(str);
+                if(cnt_1 == k) {
+                    string str = s.substr(i , (j - i + 1));
+                    len = min(len , (j - i + 1));
                 }
             }
         }
-        if(ans.size() == 0) {
+
+        if(len == INT_MAX) {
             return "";
         }
 
-        sort(ans.begin() , ans.end() , cmp);
+         for(int i=0; i<n; i++) {
+            int cnt_1 = 0;
+            for(int j=i; j<n; j++) {
+                if(s[j] == '1') {
+                    cnt_1++;
+                }
 
-        for(auto it : ans) {
-            cout<<it<<" ";
+                if(cnt_1 == k && (j - i + 1) == len) {
+                    string str = s.substr(i , (j - i + 1));
+                    arr.push_back(str);
+                }
+            }
         }
 
-        return ans[0];
+        sort(arr.begin() , arr.end());
+
+        return arr[0];
     }
 };

@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1012-numbers-with-repeated-digits) |
 | [1103-distribute-candies-to-people](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0935-knight-dialer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0935-knight-dialer) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1012-numbers-with-repeated-digits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1012-numbers-with-repeated-digits) |
 | [1125-smallest-sufficient-team](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1255-maximum-score-words-formed-by-letters) |

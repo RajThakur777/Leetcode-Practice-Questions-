@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2317-maximum-xor-after-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2317-maximum-xor-after-operations) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2376-count-special-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2376-count-special-integers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2222-number-of-ways-to-select-buildings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2262-total-appeal-of-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2262-total-appeal-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2376-count-special-integers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2376-count-special-integers) |
 | [2420-find-all-good-indices](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2420-find-all-good-indices) |
 | [2439-minimize-maximum-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2463-minimum-total-distance-traveled) |

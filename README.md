@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1222-queens-that-can-attack-the-king](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1094-car-pooling) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
+| [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
+| [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -1345,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1513,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1302-deepest-leaves-sum) |
@@ -2174,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0886-possible-bipartition) |
+| [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |

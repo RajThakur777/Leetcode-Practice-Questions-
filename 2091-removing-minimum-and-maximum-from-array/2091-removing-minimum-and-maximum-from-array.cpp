@@ -3,39 +3,44 @@ public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
 
-        int mini = *min_element(nums.begin() , nums.end());
         int maxi = *max_element(nums.begin() , nums.end());
+        int mini = *min_element(nums.begin() , nums.end());
 
-        int idx1 = -1;
-        int idx2 = -1;
+        int i1 = -1;
+        int j1 = -1;
 
         for(int i=0; i<n; i++) {
-            if(nums[i] == mini) {
-                idx1 = i;
+            if(maxi == nums[i]) {
+                i1 = i;
                 break;
             }
         }
 
         for(int i=0; i<n; i++) {
-            if(nums[i] == maxi) {
-                idx2 = i;
+            if(mini == nums[i]) {
+                j1 = i;
                 break;
             }
         }
 
-        if(idx1 < idx2) {
-            int ans1 = idx1 + 1 + n - idx2;
-            int ans2 = idx2 + 1;
-            int ans3 = n - idx1;
+        if(i1 == j1) {
+            return i1 + 1;
+        }
 
-            return min({ans1 , ans2 , ans3});
+        int r1 = max({i1 , j1}) + 1;
+        int r2 = n - min({i1 , j1});
+
+        int r3 = 0;
+
+        if(i1 > j1) {
+            r3 += (j1 + 1);
+            r3 += (n - i1);
         }
         else {
-            int ans1 = idx2 + 1 + n - idx1;
-            int ans2 = idx1 + 1;
-            int ans3 = n - idx2;
-
-            return min({ans1 , ans2 , ans3});
+            r3 += (i1 + 1);
+            r3 += (n - j1);
         }
+
+        return min({r1 , r2  ,r3});
     }
 };

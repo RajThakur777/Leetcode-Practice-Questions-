@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3665-twisted-mirror-path-count](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3689-maximum-total-subarray-value-i) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3731-find-missing-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -1630,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3689-maximum-total-subarray-value-i) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Binary Search
 |  |
 | ------- |
@@ -2197,6 +2200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Topological Sort
 |  |
 | ------- |

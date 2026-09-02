@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3966-count-good-integers-in-a-range](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3966-count-good-integers-in-a-range) |
 ## Sorting
 |  |
 | ------- |
@@ -1073,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3966-count-good-integers-in-a-range](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3966-count-good-integers-in-a-range) |
 ## Backtracking
 |  |
 | ------- |

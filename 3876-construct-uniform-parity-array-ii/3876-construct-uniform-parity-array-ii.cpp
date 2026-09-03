@@ -5,24 +5,32 @@ public:
 
         sort(nums1.begin() , nums1.end());
 
-        if(nums1[0] % 2 != 0) {
-            return true;
-        }
-        else {
-            bool f = true;
-            for(int i=0; i<n; i++) {
-                if(nums1[i] % 2 != 0) {
-                    f = false;
+        bool f1 = true;
+        bool f2 = true;
+
+        //all odd;
+        int odd = -1;
+        for(int i=0; i<n; i++) {
+            if(nums1[i] % 2 != 0) {
+                odd = nums1[i];
+            }
+            else {
+                if(odd == -1) {
+                    f1 = false;
                     break;
                 }
             }
+        }
 
-            if(f) {
-                return true;
-            }
-            else {
-                return false;
+        //all even
+        int o = -1;
+        for(int i=0; i<n; i++) {
+            if(nums1[i] % 2 != 0) {
+                f2 = false;
+                break;
             }
         }
+
+        return (f1 || f2);
     }
 };

@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3904-smallest-stable-index-ii) |
+| [3905-multi-source-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3905-multi-source-flood-fill) |
 ## Math
 |  |
 | ------- |
@@ -1564,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3310-remove-methods-from-project) |
+| [3905-multi-source-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3905-multi-source-flood-fill) |
 ## Union Find
 |  |
 | ------- |
@@ -1788,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3665-twisted-mirror-path-count](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3905-multi-source-flood-fill](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3905-multi-source-flood-fill) |
 ## Stack
 |  |
 | ------- |

@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -1484,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |

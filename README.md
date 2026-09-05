@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1064,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2826-sorting-three-groups](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2826-sorting-three-groups) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2957-remove-adjacent-almost-equal-characters) |

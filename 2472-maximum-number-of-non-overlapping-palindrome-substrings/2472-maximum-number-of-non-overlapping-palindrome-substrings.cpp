@@ -6,7 +6,7 @@ public:
 
     int dp2[2001][2001];
 
-    bool isPalindrome(string &s , int i , int j) {
+    bool isPalindrome(int i , int j , string &s) {
         if(i >= j) {
             return true;
         }
@@ -15,10 +15,18 @@ public:
             return dp2[i][j];
         }
 
-        return dp2[i][j] = (isPalindrome(s , i+1 , j-1) && (s[i] == s[j]));
+        if(s[i] != s[j]) {
+            return dp2[i][j] = false;
+        }
+
+        return dp2[i][j] = isPalindrome(i+1 , j-1 , s);
     }
 
     int solve(int idx , string &s , int k) {
+        if(idx >= n) {
+            return 0;
+        }
+
         if(dp1[idx] != -1) {
             return dp1[idx];
         }
@@ -26,11 +34,11 @@ public:
         int ans = 0;
 
         for(int i=idx; i<n; i++) {
-            if((i - idx + 1) >= k && isPalindrome(s , idx , i)) {
-                ans = max(ans , 1 + solve(i + 1 , s , k));
+            if((i - idx + 1) >= k && isPalindrome(idx , i , s)) {
+                ans = max(ans , 1 + solve(i+1 , s , k));
             }
             else {
-                ans = max(ans , solve(i + 1 , s , k));
+                ans = max(ans , solve(i+1 , s , k));
             }
         }
 

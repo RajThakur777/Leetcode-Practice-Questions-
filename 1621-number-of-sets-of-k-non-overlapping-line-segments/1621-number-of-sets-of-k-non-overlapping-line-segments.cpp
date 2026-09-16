@@ -1,42 +1,49 @@
 class Solution {
 public:
-    int m = 1e9 + 7;
+    const int mod = 1e9 + 7;
+
     int dp[1001][1001];
 
-    long long solve(int k, int i, int n) {
-        if (k == 0) {
+    int solve(int idx , int n , int k) {
+        if(k == 0) {
             return 1;
         }
 
-        if (i == n) {
+        if(idx >= n) {
+            if(k == 0) {
+                return 1;
+            }
             return 0;
         }
 
-        if (dp[k][i] != -1) {
-            return dp[k][i];
+        if(dp[idx][k] != -1) {
+            return dp[idx][k];
         }
 
-        long long skip = solve(k, i + 1, n);
+        int ans = 0;
 
-        long long take = 0;
+        ans = (ans + solve(idx+1 , n , k)) % mod;
 
-        for (int j = i + 1; j < n; j++) {
-            take += solve(k - 1, j, n);
-            take = take % m;
+        for(int j=idx+1; j<n; j++) {
+            ans = (ans + solve(j , n , k-1)) % mod;
         }
-        
-        return dp[k][i] = (skip + take) % m;
+
+        return dp[idx][k] = ans;
     }
 
     int numberOfSets(int n, int k) {
-        if (k > n - 1)
+        if(k > n-1) {
             return 0;
+        }
 
-        if (k == n - 1)
+        if(k == n-1) {
             return 1;
+        }
+        
+        memset(dp , -1 , sizeof(dp));
 
-        memset(dp, -1, sizeof(dp));
+        int ans = solve(0 , n , k);
 
-        return solve(k, 0, n);
+        return (ans % mod);
     }
 };

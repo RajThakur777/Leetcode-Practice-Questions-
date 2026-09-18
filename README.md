@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1386-cinema-seat-allocation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |

@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2895-minimum-processing-time) |
 | [2906-construct-product-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2906-construct-product-matrix) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -2040,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0732-my-calendar-iii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3454-separate-squares-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -2329,6 +2332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0493-reverse-pairs) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Game Theory
 |  |
 | ------- |

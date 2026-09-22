@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1630-arithmetic-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1630-arithmetic-subarrays) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1529-minimum-suffix-flips) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |

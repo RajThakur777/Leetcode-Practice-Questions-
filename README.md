@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1630-arithmetic-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -1444,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -1480,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1854-maximum-population-year) |
@@ -1707,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1970-last-day-where-you-can-still-cross) |

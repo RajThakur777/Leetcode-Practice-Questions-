@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -1867,6 +1868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -2399,6 +2401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bipartite Graph
 |  |

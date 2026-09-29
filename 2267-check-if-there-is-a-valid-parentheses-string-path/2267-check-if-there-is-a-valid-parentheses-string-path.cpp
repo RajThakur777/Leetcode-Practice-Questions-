@@ -18,38 +18,31 @@ public:
                 cnt--;
             }
 
-            if(cnt == 0) {
-                return true;
-            }
-
-            return false;
+            return (cnt == 0);
         }
 
         if(dp[i][j][cnt] != -1) {
             return dp[i][j][cnt];
         }
 
-        int b = cnt;
+        char ch = grid[i][j];
 
-        if(grid[i][j] == '(') {
-            b++;
+        int r = cnt;
+
+        if(ch == '(') {
+            r++;
         }
         else {
-            b--;
+            r--;
         }
 
-
-        bool right = solve(i , j+1 , grid , b);
-        bool down = solve(i+1 , j , grid , b);
-
-        return dp[i][j][cnt] = right || down;
+        return dp[i][j][cnt] = solve(i+1 , j , grid , r) || solve(i , j+1 , grid , r);
     }
 
     bool hasValidPath(vector<vector<char>>& grid) {
         m = grid.size();
         n = grid[0].size();
-
-
+        
         memset(dp , -1 , sizeof(dp));
 
         return solve(0 , 0 , grid , 0);

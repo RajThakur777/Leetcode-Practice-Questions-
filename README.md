@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1079-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1869,6 +1870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -2403,6 +2405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

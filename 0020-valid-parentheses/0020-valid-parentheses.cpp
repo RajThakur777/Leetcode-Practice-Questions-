@@ -6,16 +6,12 @@ public:
         stack<char> st;
 
         for(int i=0; i<n; i++) {
-            if(s[i] == '(' || s[i] == '[' || s[i] == '{') {
+            if((s[i] == '(') || (s[i] == '[') || (s[i] == '{')) {
                 st.push(s[i]);
             }
             else {
                 if(s[i] == ')') {
-                    if(st.empty()) {
-                        return false;
-                    }
-
-                    if(st.top() != '(') {
+                    if(st.empty() || st.top() != '(') {
                         return false;
                     }
                     else {
@@ -23,23 +19,15 @@ public:
                     }
                 }
                 else if(s[i] == ']') {
-                    if(st.empty()) {
-                        return false;
-                    }
-
-                    if(st.top() != '[') {
+                    if(st.empty() || st.top() != '[') {
                         return false;
                     }
                     else {
                         st.pop();
                     }
                 }
-                else if(s[i] == '}') {
-                    if(st.empty()) {
-                        return false;
-                    }
-
-                    if(st.top() != '{') {
+                if(s[i] == '}') {
+                    if(st.empty() || st.top() != '{') {
                         return false;
                     }
                     else {

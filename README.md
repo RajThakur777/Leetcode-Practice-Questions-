@@ -878,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0856-score-of-parentheses) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1874,6 +1875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -2419,6 +2421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

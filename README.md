@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1208-get-equal-substrings-within-budget) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1887,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1653-minimum-deletions-to-make-string-balanced) |

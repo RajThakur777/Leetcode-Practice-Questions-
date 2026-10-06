@@ -879,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1643,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0969-pancake-sorting](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1029-two-city-scheduling) |
@@ -1878,6 +1880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1019-next-greater-node-in-linked-list) |
@@ -2422,6 +2425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

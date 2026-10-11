@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2679-sum-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -2109,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2947-count-beautiful-substrings-i) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |

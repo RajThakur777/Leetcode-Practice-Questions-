@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2895-minimum-processing-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2906-construct-product-matrix) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2317-maximum-xor-after-operations) |
 | [2527-find-xor-beauty-of-array](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2527-find-xor-beauty-of-array) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -1699,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2895-minimum-processing-time](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajThakur777/Leetcode-Practice-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
